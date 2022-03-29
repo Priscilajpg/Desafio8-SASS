@@ -1,0 +1,31 @@
+//navBar-----------------------------------------------------------------------------
+nav{
+    background-color: $mainColor;
+    .logo{
+        width: 25rem;
+    } 
+}
+
+//main-------------------------------------------------------------------------------
+main{
+    h1{
+        color: $tittleFontColor;
+    }
+    .productos{
+        img{
+            width: 15rem;
+            margin-bottom: 2rem;
+        }
+    }
+}
+
+//footer-----------------------------------------------------------------------------
+footer{
+    background-color: $mainColor;
+    img{
+       width: 15rem;
+    }
+    div{
+        display: inline-block;
+    }
+}

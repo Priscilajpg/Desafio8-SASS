@@ -1,0 +1,41 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  text-align: center;
+  list-style: none;
+}
+
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+nav {
+  background-color: #c4875e;
+}
+
+nav .logo {
+  width: 25rem;
+}
+
+main h1 {
+  color: #b47070;
+}
+
+main .productos img {
+  width: 15rem;
+  margin-bottom: 2rem;
+}
+
+footer {
+  background-color: #c4875e;
+}
+
+footer img {
+  width: 15rem;
+}
+
+footer div {
+  display: inline-block;
+}
+/*# sourceMappingURL=style.css.map */
